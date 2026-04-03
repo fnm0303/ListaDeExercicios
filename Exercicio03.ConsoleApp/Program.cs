@@ -2,6 +2,7 @@
 
 //Fórmula ((0°C × 9)/5) + 32 = 32 °F
 
+Console.Clear();
 Console.Write("Digite a temperatura em °C: ");
 double tempCelsius = Convert.ToDouble(Console.ReadLine());
 

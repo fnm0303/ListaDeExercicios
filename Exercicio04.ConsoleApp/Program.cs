@@ -6,6 +6,7 @@ A comissão é calculada com um percentual (informado pelo usuário) sobre o tot
 
 //Salário Total = Salário Fixo + (Total de Vendas * Porcentagem de Comissão)
 
+Console.Clear();
 Console.Write("Digite o salário base do funcionário (em R$): ");
 double salarioBase = Convert.ToDouble(Console.ReadLine());
 

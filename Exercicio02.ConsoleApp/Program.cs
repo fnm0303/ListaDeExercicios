@@ -7,6 +7,7 @@ b. A quilometragem final ao término da viagem.
 c. A quantidade de combustível consumida durante a viagem (em litros).
 */
 
+Console.Clear();
 Console.Write("Digite a quilometragem do veículo no início da viagem: ");
 double kmInicial = Convert.ToDouble(Console.ReadLine());
 

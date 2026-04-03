@@ -1,7 +1,6 @@
 ﻿//Crie um programa para calcular a média ponderada de duas provas realizadas por um aluno
 
-
-
+Console.Clear();
 Console.Write("Digite a 1ª nota: ");
 double nota1 = Convert.ToDouble(Console.ReadLine());
 

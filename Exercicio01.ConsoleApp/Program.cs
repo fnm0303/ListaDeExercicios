@@ -2,6 +2,7 @@
 
 //v = c x l x a
 
+Console.Clear();
 Console.Write("Digite o comprimento da caixa retangular (em cm): ");
 double comprimento = Convert.ToDouble(Console.ReadLine());
 
