@@ -18,5 +18,13 @@ for (int i = numero - 1; i >= 1; i--)
 }
 
 Console.WriteLine("-------------------------------------------");
+
+for (int i = numero; i >= 1; i--)
+{
+    Console.Write($"{i} x ");
+}
+
+Console.Write($" = {resultado}");
+Console.WriteLine("\n-------------------------------------------");
 Console.WriteLine($"O fatorial de {numero}! é = {resultado:N0}"); //N0 para fazer a separação de milhar
 Console.ReadLine();

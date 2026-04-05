@@ -38,4 +38,39 @@ Fórmula para o cálculo da média ponderada:
 
 ![Um sistema que calcula a média ponderada de um aluno](./.docs/Exercicio05.gif)
 
+### 6. Faça um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B é menor que C. ###
+
+![Um sistema que mostra se A + B é menor que C](./.docs/Exercicio06.gif)
+
+### 7. Um sistema que calcula o IMC de uma pessoa. ###
+
+O IMC – Índice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta. 
+
+A fórmula é *IMC = peso / (altura x altura)*. 
+
+O algoritmo lê o peso e a altura de um adulto e mostre sua condição de acordo com a listagem abaixo:
+
+ - Abaixo de 18,5 = Abaixo do peso
+ - Entre 18,5 e 25 = Peso normal
+ - Entre 25 e 30 = Acima do peso
+ - Acima de 30 = Obeso
+
+![Um sistema que calcula o IMC de uma pessoa](./.docs/Exercicio07.gif)
+
+### 8. Faça um algoritmo para receber um número qualquer e informar na tela se é par ou ímpar. ###
+
+![Um sistema que informa se o número é par ou ímpar](./.docs/Exercicio08.gif)
+
+### 9. Escreva um algoritmo que leia um valor inicial A e imprima a sequência de valores do cálculo de A! e o seu resultado. ###
+
+Ex: *5! = 5 X 4 X 3 X 2 X 1 = 120*
+
+![Um sistema que calcula o fatorial de qualquer número inteiro](./.docs/Exercicio09.gif)
+
+### 10. Escreva um programa que imprima os números de 1 a 100 em ordem crescente, substituindo os números múltiplos de 3 pela palavra "Fizz" e os múltiplos de 5 pela palavra "Buzz". Para números que são múltiplos de ambos, use "FizzBuzz". ###
+
+![Um sistema imprime números de 1 a 100 substituindo múltiplos de 3 e 5](./.docs/Exercicio10.gif)
+
+
+
 
