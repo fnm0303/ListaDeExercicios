@@ -17,4 +17,6 @@ if (valorA + valorB < valorC)
 }
 
 else
-    Console.ReadLine();
+    Console.WriteLine($"O valor de A+B não é menor do que C.");
+
+Console.ReadLine();
