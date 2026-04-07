@@ -15,7 +15,8 @@ for (int i = 1; i <= 100; i++)
     else if (i % 5 == 0)
         Console.Write("Buzz, ");
     else
-        Console.Write("" + i + ", ");
+        //Console.Write("" + i + ", ");
+        Console.Write(Convert.ToString(i) + " ");
 }
 Console.WriteLine("!");
 Console.WriteLine("---------------------------------");
